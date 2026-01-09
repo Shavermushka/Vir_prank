@@ -83,6 +83,8 @@ GitHub: [(https://github.com/Shavermushka]
 
 Помните: настоящая безопасность важнее любых шуток! 🛡️
 
-!
+
+<img width="1439" height="856" alt="2026-01-09_22-37-16" src="https://github.com/user-attachments/assets/f91fbd58-b20f-488b-80e8-2135bceb31c5" />
+
 
 Спасибо за внимание! 🎪
