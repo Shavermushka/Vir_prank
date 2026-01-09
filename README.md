@@ -50,7 +50,7 @@ bash
 pip install -r requirements.txt
 2. Запуск программы
 bash
-python OSINT-data.py
+python joke_virus.py
 🎯 Как использовать
 Запустите скрипт
 
