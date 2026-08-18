@@ -76,13 +76,6 @@ python joke_virus.py
 
 ---
 
-## 👥 Авторство
-
-**Автор:** [Shavermushka](https://github.com/Shavermushka)
-**GitHub-репозиторий:** [https://github.com/Shavermushka/Vir_prank](https://github.com/Shavermushka/Vir_prank) (ссылка для примера)
-
----
-
 ## 🔄 Дополнительная информация
 
 - **Версия:** 1.0.0
